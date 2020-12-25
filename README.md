@@ -10,8 +10,5 @@ JLCPCB offers an <strong>"SMT Assembly Service"</strong> where up to 50 PCBs can
 <hr />
 <p>Greez<br /><br />JDet</p>
 <hr />
-<img alt="C128toSCART_SMT_V2_PCB#1" src="./img/C128toSCART_V2_PCB#1.PNG"  />
-<hr />
-<img alt="C128toSCART_SMT_V2_PCB#2" src="./img/C128toSCART_V2_PCB#2.PNG"  />
-<hr />
-<img alt="C128toSCART_SMT_V2_PCB#3" src="./img/C128toSCART_V2_PCB#3.PNG"  />
+<p><img alt="C128toSCART_SMT_V2_PCB#1" src="./pics/./img/C128toSCART_V2_PCB#1.PNG" style="border-width: 1px; border-style: solid;" /></p>
+
