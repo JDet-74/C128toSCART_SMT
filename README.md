@@ -10,7 +10,7 @@ JLCPCB offers an <strong>"SMT Assembly Service"</strong> where up to 50 PCBs can
 <hr />
 <p>Greetz<br /><br />JDet</p>
 ## Contact
-For any questions (technical or experience), please use the issue tracking system of github. 
+For any questions (technical / experience), please use the issue tracking system of github. 
 <hr />
 <p><img alt="C128toSCART_SMT_V2_PCB#1" src="./img/C128toSCART_V2_PCB%231.jpg" style="border-width: 1px; border-style: solid;" /></p>
 <hr />
