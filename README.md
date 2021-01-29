@@ -3,16 +3,18 @@
 <p>In a few weeks a further development of the "C128toSCART" project can be found here.<br />
 It is a second version of the SMT variant with only a few THT components left.</p>
 <hr />
-<p>The project can be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
-JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
-<p>Take a look into the <strong>pcb_fabrication</strong> folder.</p>
-<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
-Take a look into the manual and set_prices_shipping PDFs for more information.</p>
-<hr />
 <p>You can watch a short intruduction video on YouTube -> <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
 <p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
-
 <hr />
+## boards and housings available
+<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
+Take a look into the <strong>manual</strong> and <strong>set_prices_shipping</strong> PDFs for more information.</p>
+<hr />
+<p>After some of the boards I have ordered have been sold, I will make all project data available here.</p> 
+<p>The project can than be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
+JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
+<p>The fiels can then be found in the <strong>pcb_fabrication</strong> folder.</p>
+<p>&nbsp;</p>
 <p>Greetz<br /><br />JDet</p>
 
 ## Contact
