@@ -6,10 +6,11 @@ It is a second version of the SMT variant with only a few THT components left.</
 <p>The project can be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
 JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
 <p>Take a look into the <strong>pcb_fabrication</strong> folder.</p>
-<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me.</p>
+<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
+Take a look into the manual and set_prices-shipping PDFs for more information.</p>
 <hr />
-<p>You can watch a short intruduction video on YouTube ->KLICK<- <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
-<p>The quality depends on the SCART display device. Make sure that your display provides RGB, CVBY and S-Video (Luma & Chroma) compatibility on the SCART input.</p>
+<p>You can watch a short intruduction video on YouTube -> <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
+<p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
 
 <hr />
 <p>Greetz<br /><br />JDet</p>
