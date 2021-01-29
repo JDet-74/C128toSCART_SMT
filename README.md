@@ -6,9 +6,10 @@ It is a second version of the SMT variant with only a few THT components left.</
 <p>You can watch a short intruduction video on YouTube -> <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
 <p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
 <hr />
-# Boards and housings available
-<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
-Take a look into the <strong>manual</strong> and <strong>set_prices_shipping</strong> PDFs for more information.</p>
+## Boards and housings available
+I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
+Take a look into the <strong>manual</strong> and <strong>set_prices_shipping</strong> PDFs for more information.
+
 <hr />
 <p>After some of the boards I have ordered have been sold, I will make all project data available here.</p> 
 <p>The project can than be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
