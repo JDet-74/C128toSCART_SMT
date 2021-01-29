@@ -1,7 +1,6 @@
 # C128toSCART_SMT
 <h2>A further in SMT developed Version of the C128toSCART_THT project.</h2>
-<p>In a few weeks a further development of the "C128toSCART" project can be found here.<br />
-It is a second version of the SMT variant with only a few THT components left.</p>
+<p>It is a second version of the SMT variant with only a few THT components left.</p>
 <hr />
 <p>You can watch a short intruduction video on YouTube -> <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
 <p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
