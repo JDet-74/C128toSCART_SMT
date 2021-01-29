@@ -12,7 +12,7 @@ Take a look into the <strong>manual</strong> and the <strong>set_prices_shipping
 
 <hr />
 <p>After some of the boards I have ordered have been sold, I will make all project data available here.</p> 
-<p>The project can than be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
+<p>The project can then be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
 JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
 <p>All the files can then be found in the <strong>pcb_fabrication</strong> folder.</p>
 <p>&nbsp;</p>
