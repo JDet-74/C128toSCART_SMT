@@ -5,7 +5,7 @@ It is a second version of the SMT variant with only a few THT components left.</
 <hr />
 <p>The project can be ordered with the <strong>GERBER, BOM and PNP</strong> files directly from JLCPCB.
 JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
-<p>Take a look in the <strong>pcb_fabrication</strong> folder.</p>
+<p>Take a look into the <strong>pcb_fabrication</strong> folder.</p>
 <p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me.</p>
 <hr />
 <p>You can watch a short intruduction video on YouTube.</p>
