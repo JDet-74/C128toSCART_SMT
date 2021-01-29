@@ -1,5 +1,5 @@
 # C128toSCART_SMT
-<h3>A further in SMT developed Version of the C128toSCART_THT project.</h3>
+<h2>A further in SMT developed Version of the C128toSCART_THT project.</h2>
 <p>In a few weeks a further development of the "C128toSCART" project can be found here.<br />
 It is a second version of the SMT variant with only a few THT components left.</p>
 <hr />
@@ -8,7 +8,7 @@ It is a second version of the SMT variant with only a few THT components left.</
 <hr />
 <h2>Boards and housings available</h2>
 <p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
-Take a look into the <strong>manual</strong> and <strong>set_prices_shipping</strong> PDFs for more information.</p>
+Take a look into the <strong>manual</strong> and the <strong>set_prices_shipping</strong> PDFs for more information.</p>
 
 <hr />
 <p>After some of the boards I have ordered have been sold, I will make all project data available here.</p> 
