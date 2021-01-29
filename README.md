@@ -8,7 +8,7 @@ JLCPCB offers an <strong>"SMT Assembly Service"</strong>.</p>
 <p>Take a look into the <strong>pcb_fabrication</strong> folder.</p>
 <p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me.</p>
 <hr />
-<p>You can watch a short intruduction video on YouTube. <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
+<p>You can watch a short intruduction video on YouTube ->KLICK<- <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
 <p>The quality depends on the SCART display device. Make sure that your display provides RGB, CVBY and S-Video (Luma & Chroma) compatibility on the SCART input.</p>
 
 <hr />
