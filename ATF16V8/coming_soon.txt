@@ -1,0 +1,1 @@
+the JEDEC file for the ATF16V8 PLD will be uploaded after I sold some of the ordered boards.

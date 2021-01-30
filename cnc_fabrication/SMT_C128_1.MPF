@@ -1,0 +1,20 @@
+G57 G90 G17
+;PROG für die DSUB/DIN Seite - SMT-Version
+
+
+T3 D1 S2000 F200 M03
+M06
+G0 Z0
+
+X15.5 Y9.8
+G1 Z-6
+X64
+Y26.3
+X48
+Y21.8
+X15.5
+Y9.8
+G0 Z0
+X-10
+
+M30
