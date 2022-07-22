@@ -5,7 +5,7 @@
 <p>You can watch a short intruduction video on YouTube -> <a href="https://youtu.be/qOvFwwrAEIk" target="_blank">C128toSCART_SMT</a></p>
 <p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
 <hr />
-<h2>Boards and housings available</h2>
+<h2>Boards but no housings available</h2>
 <p>I currently have boards but no housings in stock. Use the issue tracking system to get in touch with me. <br />
 Futunately Markus designed a housing and gave me the STL Files for 3D printing.</p>
 
