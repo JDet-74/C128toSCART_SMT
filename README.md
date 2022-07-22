@@ -7,7 +7,7 @@
 <hr />
 <h2>Boards but no housings available</h2>
 <p>I currently have boards but no housings in stock. Use the issue tracking system to get in touch with me. <br />
-Futunately Markus designed a housing and gave me the STL Files for 3D printing.</p>
+Fortunately Markus designed a housing and gave me the STL Files for 3D printing.</p>
 
 <hr />
 <p><img alt="3D-Print_3_smaller" src="./img/3D-Print_3_smaller.jpg" style="border-width: 1px; border-style: solid;" /></p>
