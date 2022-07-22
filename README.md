@@ -6,7 +6,16 @@
 <p>The quality depends on the SCART display device. Make sure that the SCART input of your display device provides RGB, CVBS (composite) or S-Video (Luma & Chroma).</p>
 <hr />
 <h2>Boards and housings available</h2>
-<p>I currently have boards and housings in stock. Use the issue tracking system to get in touch with me. <br />
+<p>I currently have boards but no housings in stock. Use the issue tracking system to get in touch with me. <br />
+Futunately Markus designed a housing and gave me the STL Files for 3D printing.</p>
+
+<hr />
+<p><img alt="3D-Print_3_smaller" src="./img/3D-Print_3_smaller.jpg" style="border-width: 1px; border-style: solid;" /></p>
+<hr />
+<p><img alt="3D-Print_9_smaller" src="./img/3D-Print_9_smaller.jpg" style="border-width: 1px; border-style: solid;" /></p>
+<hr />
+
+<p>You can find the STL files in the 3D_print folder. <br /> 
 Take a look into the <strong>manual</strong> and the <strong>set_prices_shipping</strong> PDFs for more information.</p>
 
 <hr />
